@@ -1,0 +1,35 @@
+
+.color-body {
+    height: 100vh;
+    background-color: #f8f8f8;
+  }
+  .font {
+  font-family: "Almarai", sans-serif;
+  font-family: "Cairo", sans-serif;
+  font-size: 20px;
+  }
+  .img-avatar {
+    height: 60px;
+    width: 60px;
+    object-fit: cover; 
+    border-radius: 50%;
+  }
+  .img-style {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  }
+  .rectangle {
+    height: 600px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    overflow: scroll;
+    box-shadow: 1px 4px 4px 1px rgba(85, 85, 85, 0.25);
+  }
+
+  .btn-style {
+    width: 200px;
+    border-radius: 8px;
+    color: white;
+    background-color: #224f61;
+  }
